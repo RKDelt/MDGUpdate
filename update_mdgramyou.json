@@ -1,10 +1,12 @@
 {
    "records":[
       {
-         "version":"MDGram Messenger V21",
+         "version":"MDGram Messenger V22 Beta",
          "code":44,
          "url":"https://mdgram.app",
-         "changelog":"HELLO YOU HAVE NEW VERSION 😉✌️" 
+         "changelog":"HELLO YOU HAVE NEW VERSION 😉✌️
+         Base telegram 12.0.1
+          New Add Drawer" 
       }
    ]
 }
